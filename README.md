@@ -1,1 +1,1 @@
-# Hand-wriiten-detection-using-CNN
+# Hand-written-detection-using-CNN
